@@ -1,6 +1,6 @@
 # ETH_Beginner_proof
-####This solidity smart conract will enable the smart contract to handle errors in a much more efficient manner.
-copy these code snippets to run the program
+#### This solidity smart conract will enable the smart contract to handle errors in a much more efficient manner.
+copy these code snippets to run the program or checkout /contracts/Rudra_error_handelling.sol
 
 this is the initialization of the contract and a variable.
 ```
